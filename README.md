@@ -119,7 +119,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-For any questions or inquiries, please reach out to me at your-email@example.com.
+For any questions or inquiries, please reach out to me at mabasagiftpd@gmail.com.
 
 ---
 
